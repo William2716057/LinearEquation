@@ -11,7 +11,7 @@ public class LinearEquation {
 		double[] solution = solveEquation(coefficients, constants);
 		if (solution != null) {
 			System.out.println("solution: ");
-			for (int i = 0; 1 < solution.length; i++) {
+			for (int i = 0; i < solution.length; i++) {
 				System.out.println("x" + (i+1) + " = " + solution[i]);
 			}
 		} else {
