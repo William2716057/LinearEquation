@@ -49,6 +49,7 @@ No solution exists
 ## Running the Code
 1. Clone repository
 ```
+https://github.com/William2716057/LinearEquation.git
 ```
 2. Run the program:
 ```
